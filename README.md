@@ -1,16 +1,24 @@
-## Hi there 👋
+# **🐱먀먀빠입니다🐱**
+### 
+*딱히 의미없이 그냥 지은 이름입니다*
+---
+    printf("Hello World!")
 
-<!--
-**myamyabbya/myamyabbya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 보통 집에서 서식하고
+- 🌱 아무 지식이나 다 먹는 걸 좋아합니다
+- 👯 할 일이 많지만 안 하면서 스트레스 받는 중..🥲
+- ⚡ 항상 에너지가 딸린다..
 
-Here are some ideas to get you started:
+|시간|학교|집|
+|--------|--------|--------|
+|오전|졸림|졸림|
+|오후|졸림|기운차림|
+|저녁|졸림|쌩쌩함|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~~이걸 쓰는 지금도 이불이 그립다..🛏️~~
+
+- [x] 밥 먹기
+- [ ] 기말 준비하기
+- [ ] 프로젝트 코드 짜기
+- [ ] 인생 진심으로 살기
+
